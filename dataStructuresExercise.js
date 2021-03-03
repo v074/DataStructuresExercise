@@ -38,7 +38,7 @@ droids.assassin="IG-11";
 
 // BONUS
 // 4. Using indexes display the "V" from "Darth Vader" from the starWarsVillains array (You will need a console log for this)
-console.log(starWarsVillains[0].slice(6,7));
+console.log(starWarsVillains[0][6]);
 // 5. Using only negative numbers display "Darth Sidious" from the sithLords array using Slice (You will need a console log for this)
 console.log(sithLords.slice(-2,-1));
 // 6a. Create a const variable named starWarsMovies and set the value to an array of three objects. Use the following keys and values for each object in the array: 1st OBJECT (episodeOne: "The Phantom Menace", episodeTwo: "Attack of the Clones", and episodeThree: "Revenge of the Sith", ). 2nd OBJECT (episodeFour: "A New Hope", episodeFive: "The Empire Strikes Back", and episodeSix: "Return of the Jedi", ). 3rd OBJECT (episodeSeven: "The Force Awakens", episodeEight: "The Last Jedi", and  episodeNine: "The Rise of Skywalker", ). I would suggest using some copy and paste on this one.
